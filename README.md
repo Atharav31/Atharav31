@@ -127,5 +127,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=20,11,6&section=footer&animation=fadeIn" />
 
 <div align="center">
-<sub>Thanks for stopping by — always open to a good backend architecture conversation.</sub>
+<sub>Thanks for stopping by — always open to a good conversation.</sub>
 </div>
